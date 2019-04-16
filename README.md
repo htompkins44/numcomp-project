@@ -1,8 +1,8 @@
 # CSCI-3656 Project: Your project title
 
 ## Group Members
-1.
-2.
+1. Hunter Tompkins
+2. Josh Biggs
 3.
 4.
 
